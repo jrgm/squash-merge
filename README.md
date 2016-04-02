@@ -1,1 +1,4 @@
-# squash-merge
+# squash-mergeline
+line
+line
+line
