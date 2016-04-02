@@ -1,2 +1,3 @@
 # squash-mergeline
 line
+line
